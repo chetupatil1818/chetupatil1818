@@ -48,8 +48,8 @@ If you’d like to collaborate on exciting projects or discuss tech, feel free t
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetupatil1818&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetupatil1818&layout=compact&theme=radical)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=chetupatil1818&color=blue)
