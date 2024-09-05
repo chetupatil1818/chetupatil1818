@@ -50,7 +50,7 @@ I aspire to become a **full-stack software engineer**, focusing on scalable syst
 If you’d like to collaborate on exciting projects or discuss tech, feel free to reach out! I'm open to learning from the community and contributing to meaningful projects.
 
 ---
-![Coder GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chetupatil1818&show_icons=true&hide_border=true&theme=radical)
