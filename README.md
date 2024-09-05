@@ -28,7 +28,7 @@ I’m a **Computer Science Engineering Student** with a passion for software dev
 2. **[Landing Page](#)** 
 3. **[Calculator](#)** 
 
-Check out more of my projects [here](https://github.com/chetupatil1818/OIBSIP,https://github.com/chetupatil1818/My_Work_Daily,https://github.com/chetupatil1818/Prodigy_ds).
+Check out more of my projects [here](https://github.com/chetupatil1818/OIBSIP).
 
 ### 📫 How to Reach Me
 - Email: [cpatil7350638164@gmail.com](mailto:cpatil7350638164@gmail.com)
