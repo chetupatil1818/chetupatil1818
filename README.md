@@ -2,6 +2,8 @@
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-banner.png) <!-- Optional: Add a banner image of your choice -->
 ![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
 
 
 ### 🌟 About Me
