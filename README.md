@@ -28,11 +28,11 @@ I’m a **Computer Science Engineering Student** with a passion for software dev
 2. **[Landing Page](#)** 
 3. **[Calculator](#)** 
 
-Check out more of my projects [here](https://github.com/chetupatil1818/Oasis/?tab=repositories).
+Check out more of my projects [here](https://github.com/chetupatil1818/OIBSIP,https://github.com/chetupatil1818/My_Work_Daily,https://github.com/chetupatil1818/Prodigy_ds).
 
 ### 📫 How to Reach Me
 - Email: [cpatil7350638164@gmail.com](mailto:cpatil7350638164@gmail.com)
-- LinkedIn: Chetan Patil(https://www.linkedin.com/in/chetan-patil-aa2545266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2iyKUgzhRjWvHAtoFWOYVw%3D%3D))
+- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-aa2545266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2iyKUgzhRjWvHAtoFWOYVw%3D%3D))
 - GitHub: [Chetu Patil](https://github.com/chetupatil1818)
 
 ### 💼 Career Goals
