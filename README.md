@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Chetan Patil!
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-banner.png) <!-- Optional: Add a banner image of your choice -->
+![Coder GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
 
 ### 🌟 About Me
 I’m a **Computer Science Engineering Student** with a passion for software development, problem-solving, and building scalable applications. My interests span across **Java, C, Python, Databases, and Enterprise Programming**, and I love exploring the depths of technology.
