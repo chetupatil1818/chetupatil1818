@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Chetan Patil!
+![Profile Picture]("C:\CHEX\Oasis_Infobyte\Portfolio\profile_pic.jpg")
 
 ![Welcome Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) <!-- Optional: Add a banner image of your choice -->
 ![Coder GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
 
 
 
